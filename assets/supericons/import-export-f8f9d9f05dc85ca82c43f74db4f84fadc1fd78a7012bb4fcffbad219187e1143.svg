@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2in" height="2in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2000 2000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:13.8898}
+    .fil1 {fill:#FEFEFE}
+    .fil0 {fill:#FFC400}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M1780 221l-1552 0c-47,0 -85,37 -85,78l0 1417c0,44 38,80 85,80l1552 0c47,0 85,-36 85,-80l0 -1417c0,-41 -38,-78 -85,-78z"/>
+  <g id="_884197888">
+   <polygon class="fil1 str0" points="1010,1444 1263,1444 1339,993 1010,903 "/>
+   <polygon class="fil1 str0" points="994,1444 994,903 664,993 741,1444 "/>
+   <polygon class="fil1 str0" points="1148,730 855,730 855,812 1148,810 "/>
+   <path class="fil1 str0" d="M1470 1484c-36,-19 -71,-27 -102,-25 -23,1 -37,8 -50,13 -13,6 -23,10 -39,10 -17,0 -28,-5 -40,-10 -13,-5 -28,-12 -52,-12 0,0 -1,0 -1,0 -23,0 -37,6 -50,12 -11,6 -21,10 -38,10 -18,0 -28,-4 -40,-10 -13,-5 -28,-12 -53,-12 -25,-1 -40,6 -55,12 -13,4 -24,9 -41,9 -19,0 -28,-5 -40,-9 -13,-6 -28,-12 -52,-12 -24,0 -39,7 -52,12 -12,6 -22,10 -39,10 -16,0 -26,-4 -38,-9 -13,-5 -28,-11 -51,-13 -32,-2 -66,6 -102,22 -8,4 -11,14 -8,22 4,8 13,11 21,8 32,-15 61,-21 88,-20 17,1 28,6 40,11 14,5 29,11 52,11 24,0 38,-6 52,-13 12,-5 21,-9 38,-9 18,0 27,4 39,9 14,6 28,12 53,13 25,0 40,-6 55,-12 13,-5 23,-10 41,-10 19,0 29,5 41,10 14,6 29,12 53,12 24,0 38,-7 51,-13 11,-5 21,-9 38,-9 17,0 27,4 39,9 14,6 28,13 52,13 0,0 1,0 1,0 23,0 38,-6 51,-13 11,-5 23,-9 40,-10 26,-2 55,5 85,22 2,2 5,2 7,2 6,0 11,-3 15,-9 1,-8 -1,-18 -9,-22z"/>
+   <rect class="fil1 str0" x="948" y="561" width="107.277" height="60.0443"/>
+   <rect class="fil1 str0" x="948" y="629" width="107.277" height="92.8666"/>
+   <polygon class="fil1 str0" points="1230,946 1230,823 773,823 773,946 1002,885 "/>
+  </g>
+ </g>
+</svg>
